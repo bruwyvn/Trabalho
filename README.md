@@ -1,8 +1,9 @@
-Curitiba, 2022/2
-Universidade Positivo
-Análise de Sistemas/Sistemas de Informação/Engenharia de Software
-Desenvolvimento de Software Visual
-Prof. Jean Diogo (jean.diogo@up.edu.br)
+Curitiba, 2022/2 <br>
+Universidade Positivo<br>
+Análise de Sistemas/Sistemas de Informação/Engenharia de Software<br>
+Desenvolvimento de Software Visual<br>
+Prof. Jean Diogo (<jean.diogo@up.edu.br>)<br>
+---:
 
 ## Especificação do Trabalho
 ### API Web
@@ -17,4 +18,4 @@ A modelagem do serviço deverá prever pelo menos duas entidades (tal como emnos
 
 Os trabalhos deverão ser realizados em equipes de três pessoas. A defesa do trabalhoocorrerá durante a aula especificada no calendário do Blackboard da turma. A equipe deverátrazer todo o código e terá cerca de 10 minutos para explicar seu funcionamento e executá-lodurante a avaliação, demonstrando todos os métodos solicitados. Apenas os membrospresentes no dia da defesa serão pontuados e a pontuação de cada membro será dadaindividualmente para garantir que todos tenham participado no desenvolvimento.Os códigos desenvolvidos durante as aulas e disponibilizados pelo professor noBlackboard poderão ser utilizados como base do trabalho, mas as classes das entidadesenvolvidas na aplicação deverão ser originais. 
 
-Dúvidas devem ser encaminhadas ao e-mail doprofessor ou postadas no Blackboard. É fortemente recomendável que as equipes informem aoprofessor com antecedência qual será o serviço implementado (e as entidades envolvidas) paraaprovação prévia. Aplicações que não cumpram todos os requisitos do trabalho serãopontuadas apenas parcialmente
+Dúvidas devem ser encaminhadas ao e-mail doprofessor ou postadas no Blackboard. É fortemente recomendável que as equipes informem aoprofessor com antecedência qual será o serviço implementado (e as entidades envolvidas) paraaprovação prévia. Aplicações que não cumpram todos os requisitos do trabalho serãopontuadas apenas parcialmente.
