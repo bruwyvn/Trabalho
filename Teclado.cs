@@ -12,7 +12,7 @@ class Teclado
                 Console.Write(msg);
                 valor = Convert.ToInt32(Console.ReadLine());
             }
-            catch (Exception ex)
+            catch
             {
                 Console.WriteLine("Erro fatal evitado");
                 valor = -1;
@@ -32,7 +32,7 @@ class Teclado
                 Console.Write(msg);
                 valor = Convert.ToDouble(Console.ReadLine());
             }
-            catch (Exception ex)
+            catch
             {
                 Console.WriteLine("Erro fatal evitado");
                 valor = -1;
