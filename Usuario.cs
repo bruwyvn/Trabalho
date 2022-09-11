@@ -76,7 +76,7 @@ namespace Trabalho
                 if (linha.Length > 0)
                 {
                     string[] valores = linha.Split(",");
-                    Usuario usuario = new Usuario(valores[1], valores[2]);
+                    Usuario usuario = new Usuario(valores[0], valores[1]);
                     usuarios.Add(usuario);
                 }
             }
@@ -89,7 +89,7 @@ namespace Trabalho
             string output = "";
             foreach (var usuario in usuarios)
             {
-                output += usuario.Serializar + "\n";
+                output += usuario.Serializar() + "\n";
             }
             return output;
         }
