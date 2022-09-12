@@ -11,7 +11,7 @@ namespace Trabalho
         {
 
             bool loopIncial = true;
-            var baseUsuarios = new BaseUsuario("usuarios.txt");
+            var baseUsuarios = new BaseUsuario("usuarios.csv");
 
             do
             {
